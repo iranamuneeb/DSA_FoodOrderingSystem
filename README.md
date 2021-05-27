@@ -1,3 +1,5 @@
 # DSA_FoodOrderingSystem
 Food ordering Management System is a project which will help the restaurants in optimizing and controlling their restaurants. This project thus will help the restaurants to perform all the functionalities accurately and in a faster way. Therefore, the proposed Food Ordering System will help in reducing manual work and improve the efficiency of the restaurant. This project will help in maintaining the stock and cash flows. Moreover, there are many more functionalities that this project supports, like To store records Control orders and services Billings
+
+
 In this Project we were able to Explain data structure and algorithm concepts and apply them to the modelling of real-world systems such as ordering food in a systematic restaurant! We have explained the data structures and algorithms paradigm and utilization of the offered facilities and how they were implemented. We have used different operations of data structures i.e. single and doubly linked list, stack, ADT, Recursion, file handling, heap, sorting and queues, etc. We have explained how this can help a restaurant in efficiency and less work load with all the proper features. 
